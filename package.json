@@ -9,8 +9,15 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-tailwindcss"
+    ]
+  },
   "devDependencies": {
     "@tailwindcss/cli": "^4.0.14",
+    "prettier": "^3.5.3",
+    "prettier-plugin-tailwindcss": "^0.6.11",
     "tailwindcss": "^4.0.14"
   }
 }
