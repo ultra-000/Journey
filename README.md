@@ -6,6 +6,5 @@ so you probably **wouldn't** be interested, if you wanna stick though here are t
 
 1. [Journey - English](<!-- blank for now -->)
 2. [Journey - Arabic](<!-- blank for now -->)
-3. [Journey - Sudanese Arabic](<!-- blank for now -->)
 
 **Note: the `src` folder is mostly for CSS now**
